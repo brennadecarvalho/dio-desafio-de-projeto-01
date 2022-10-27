@@ -1,0 +1,6 @@
+	Participando do meu primeiro Bootcamp patrocinado pelo banco Inter e em parceiria com a DIO.
+
+	No momento conclui meu segundo curso do Bootcamp o qual foi sobre introdução ao Git e GitHub,
+em que pude aprender conceitos novos e reforçar outros que já havia aprendido.
+	 Agora estou fazendo o meu primeiro desafio de projeto do Bootcamp, que é de criar um repositório
+remoto e fazer a integração com meu repositório local.
